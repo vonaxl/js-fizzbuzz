@@ -1,3 +1,12 @@
 .pads{
   padding: 4rem 0;
 }
+
+body{
+  background-image: linear-gradient(to bottom, red,orange,yellow,green,blue,indigo,violet);
+}
+
+li{
+  font-size: 2em;
+  color: white;
+}

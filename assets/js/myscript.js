@@ -21,5 +21,5 @@ for (var i = 1; i < 101; i++) {
     a = i;
   }
   b = document.getElementById('risultao').innerHTML;
-  document.getElementById('risultao').innerHTML = b+ "<li>"+a+"</li>";
+  document.getElementById('risultao').innerHTML = b + "<li>"+a+"</li>";
 }
