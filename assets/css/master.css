@@ -10,3 +10,9 @@ li{
   font-size: 2em;
   color: white;
 }
+
+.box{
+  position: fixed;
+  right: 0;
+  bottom: 0;
+}

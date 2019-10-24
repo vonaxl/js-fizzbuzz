@@ -20,6 +20,6 @@ for (var i = 1; i < 101; i++) {
     console.log(i);
     a = i;
   }
-  b = document.getElementById('risultao').innerHTML;
-  document.getElementById('risultao').innerHTML = b + "<li>"+a+"</li>";
+  b = document.getElementById('risultato').innerHTML;
+  document.getElementById('risultato').innerHTML = b + "<li>"+a+"</li>";
 }
